@@ -1,0 +1,9 @@
+__pycache__
+test*
+redis_data.json
+app.py
+console-app.py
+response*
+business.json
+local.settings.json
+.venv/*
